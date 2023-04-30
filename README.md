@@ -19,7 +19,8 @@ To install the <code>Tampermonkey</code> browser extension, you can download it 
 - or Click <a href="https://github.com/linxz-coder/Mem/raw/main/memit.user.js">Github script.</a>
 
 ## **3. insert mem key**
-- Enter your mem API key.
+- Enter your mem API key here.
+![script](https://raw.githubusercontent.com/linxz-coder/img-folder/main/install_script.png)
 - If you don't know your API key, you can find it in the **"Flows"** section of the mem client.
 - click "API" and then click "Create New API Key" to create one.
 
