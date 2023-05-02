@@ -37,3 +37,6 @@ This is because ChatGPT's data backend is transferring data, and we can only dow
 We don't actually need to wait for the full 10 seconds; usually, try again after <code>3-4 seconds</code> and everything solved.  
 <br>
 Please note that buttons only supports single-page data. If you try to use them on the homepage, it will continue to show a warning, and you need to switch to a chat page with content.
+
+## **2. Cannot see content after "mem it" successfully?**
+That's an issue of memdotai, usually it would take 1-2 seconds to load the content to your account. Sometimes it needs more time, just refresh your mem client after 3-4 seconds and be patient.
