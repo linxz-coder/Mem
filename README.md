@@ -40,3 +40,8 @@ Please note that buttons only supports single-page data. If you try to use them 
 
 ## **2. Cannot see content after "mem it" successfully?**
 That's an issue of memdotai, usually it would take 1-2 seconds to load the content to your account. Sometimes it needs more time, just refresh your mem client after 3-4 seconds and be patient.
+
+---
+follow me on twitter: https://twitter.com/lamhiuzhong  
+Contact me in my website: www.linxiaozhong.club  
+微信公众号：凡学子
